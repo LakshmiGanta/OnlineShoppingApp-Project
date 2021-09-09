@@ -1,0 +1,15 @@
+content_assist_autoactivation_triggers_java=._abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+content_assist_category_order=org.eclipse.jdt.ui.templateProposalCategory\:0\u0000org.eclipse.jdt.ui.swtProposalCategory\:1\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\:65537\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\:3\u0000org.eclipse.jdt.ui.textProposalCategory\:65539\u0000org.eclipse.jdt.ui.javaAllProposalCategory\:5\u0000org.eclipse.jdt.ui.javaChainProposalCategory\:6\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\:65542\u0000org.eclipse.pde.api.tools.ui.apitools_proposal_category\:8\u0000org.eclipse.lsp4e.jdt.ls-based-java-completion-computer\:9\u0000
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.app.search.service.ProductSearchService"><rhs name\="com.app.search.service.impl.ProductSearchServiceImpl"/></lhs><lhs name\="com.app.model.Products"><rhs name\="com.app.model.Products"/></lhs><lhs name\="com.app.search.service.CustomerLoginService"><rhs name\="com.app.search.service.impl.CustomerLoginServiceImpl"/></lhs><lhs name\="com.app.search.service.LoginService"><rhs name\="com.app.search.service.impl.LoginServiceImpl"/></lhs><lhs name\="com.app.dao.CartDAO"><rhs name\="com.app.dao.impl.CartDAOImpl"/></lhs><lhs name\="com.app.model.Cart"><rhs name\="com.app.model.Cart"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="com.app.search.service.OrderService"><rhs name\="com.app.search.service.impl.OrderServiceImpl"/></lhs><lhs name\="com.app.dao.OrdersDAO"><rhs name\="com.app.dao.impl.OrdersDAOImpl"/></lhs><lhs name\="com.app.model.Orders"><rhs name\="com.app.model.Orders"/></lhs><lhs name\="com.app.AddProductToCart"><rhs name\="com.app.AddProductToCart"/></lhs><lhs name\="com.app.ViewOrPlaceCart"><rhs name\="com.app.ViewOrPlaceCart"/></lhs><lhs name\="com.app.DisplayFunctions"><rhs name\="com.app.DisplayFunctions"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=18
+sourceHoverBackgroundColor=255,255,225
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

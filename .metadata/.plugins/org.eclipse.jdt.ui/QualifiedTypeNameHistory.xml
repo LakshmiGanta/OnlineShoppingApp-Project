@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.app.search.service.impl.ProductSearchServiceImpl"/>
+<fullyQualifiedTypeName name="com.app.dao.ProductSearchDAO"/>
+<fullyQualifiedTypeName name="com.app.search.service.ProductSearchService"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.jar.Attributes.Name"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="com.app.dao.impl.CustomerLoginDAOImpl"/>
+<fullyQualifiedTypeName name="com.app.dao.CustomerLoginDAO"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.app.search.service.CustomerLoginService"/>
+<fullyQualifiedTypeName name="com.app.search.service.impl.CustomerLoginServiceImpl"/>
+<fullyQualifiedTypeName name="com.mysql.cj.jdbc.AbandonedConnectionCleanupThread"/>
+<fullyQualifiedTypeName name="java.lang.Iterable"/>
+<fullyQualifiedTypeName name="com.mysql.cj.x.protobuf.MysqlxCrud.Order"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
+<fullyQualifiedTypeName name="com.mysql.cj.log.Log"/>
+<fullyQualifiedTypeName name="com.app.search.service.CartService"/>
+<fullyQualifiedTypeName name="com.app.search.service.impl.CartServiceImpl"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="javax.sound.midi.MidiDevice.Info"/>
+<fullyQualifiedTypeName name="com.app.model.Cart"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="com.app.search.service.OrderService"/>
+<fullyQualifiedTypeName name="com.app.search.service.impl.OrderServiceImpl"/>
+<fullyQualifiedTypeName name="com.app.dao.OrdersDAO"/>
+<fullyQualifiedTypeName name="com.app.dao.impl.OrdersDAOImpl"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.app.dao.CartDAO"/>
+<fullyQualifiedTypeName name="com.app.dao.impl.CartDAOImpl"/>
+<fullyQualifiedTypeName name="com.app.model.Orders"/>
+<fullyQualifiedTypeName name="com.app.model.Products"/>
+<fullyQualifiedTypeName name="com.app.AddProductToCart"/>
+<fullyQualifiedTypeName name="com.app.ViewOrPlaceCart"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.app.search.service.LoginService"/>
+<fullyQualifiedTypeName name="com.app.search.service.impl.LoginServiceImpl"/>
+<fullyQualifiedTypeName name="com.app.model.Employee"/>
+<fullyQualifiedTypeName name="com.app.model.Customer"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.app.exception.BusinessException"/>
+<fullyQualifiedTypeName name="com.app.DisplayFunctions"/>
+</qualifiedTypeNameHistroy>
